@@ -1,0 +1,44 @@
+.lienzo{
+    width: 60%;
+    height: 450px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-left: 25%;
+    margin-top: 5%;
+    color: steelblue;
+    background: black;
+    text-align: center;
+    padding: 10px 0;
+}
+h1{
+    margin-top: 10%;
+}
+.caja{
+    width: 50%;
+    margin-left: 25%;
+    background: yellowgreen;
+    color: rgb(95, 82, 65);
+    font-size: 20px;
+    padding: 20px 10px;
+    margin-top: 10%;
+    box-shadow: 0 0 5px 10px #32362b;
+}
+
+input, button, textarea{
+    background: black;
+    color: rgb(0, 128, 255);
+    margin: 2px;
+    padding: 5px
+}
+
+label{
+    padding: ;
+}
+
+footer{
+    display: block;
+    margin-top: 20%;
+    margin-right: 1%;
+    font-size: xx-small;
+    text-align: end;
+}
